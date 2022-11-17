@@ -3,8 +3,8 @@
 Этот проект **делает** ....
 
 * item 1
-* item 2
 * item 3
+* item 4
 
 ```c#
 Console.ReadKey();
